@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x629fe7caf3673e2872e7b5caf15dea5718606c0e",
+  "SCAN_LINK": "https://ftmscan.com/address/0x629fe7caf3673e2872e7b5caf15dea5718606c0e",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Fantom Rhinos",
+  "SYMBOL": "Fantom Rhinos",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 3300000000000000000,
+  "DISPLAY_COST": 33,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/collections/0x629fe7caf3673e2872e7b5caf15dea5718606c0e",
+  "SHOW_BACKGROUND": true
+}
