@@ -9,7 +9,7 @@
   "NFT_NAME": "Fantom Rhinos",
   "SYMBOL": "Fantom Rhinos",
   "MAX_SUPPLY": 3333,
-  "WEI_COST": 3300000000000000000,
+  "WEI_COST": 33000000000000000000,
   "DISPLAY_COST": 33,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Paintswap",
